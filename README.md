@@ -1,2 +1,2 @@
-# PORC
-Lib from Operational Search
+# solver.js
+Operational Research Library
